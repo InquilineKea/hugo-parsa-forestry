@@ -1,3 +1,7 @@
++++
+draft = true
+
++++
 # Hugo Parsa Forestry Starter
 
 [Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo) for Forestry CMS.
